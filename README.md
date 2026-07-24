@@ -90,7 +90,7 @@ Software Engineer | MERN Stack Developer | SaaS Builder with 2+ years of experie
 ### 🔥 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-dhangar&theme=radical&hide_border=true" alt="sourabh-dhangar GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshsmule&theme=radical&hide_border=true" alt="prathameshsmule GitHub streak" />
 </div>
 
 <p align="center">
