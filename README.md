@@ -5,23 +5,12 @@
 # Hi there, I'm Prathamesh Mule 👋
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathameshsmule&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-2ECC71?style=flat" alt="Open to opportunities" />
-</div>
-
-<div align="center">
 
   <img src="https://komarev.com/ghpvc/?username=prathameshsmule&label=Profile%20Views&color=36BCF7&style=flat" />
-
   <img src="https://img.shields.io/badge/Software%20Engineer-MERN%20Stack-blue?style=flat-square" />
-
   <img src="https://img.shields.io/badge/Experience-2%2B%20Years-success?style=flat-square" />
-
   <img src="https://img.shields.io/badge/SaaS-Product%20Developer-orange?style=flat-square" />
-
   <img src="https://img.shields.io/badge/AI-n8n%20Automation-purple?style=flat-square" />
-
   <img src="https://img.shields.io/badge/Open%20To-Work-brightgreen?style=flat-square" />
 
 </div>
