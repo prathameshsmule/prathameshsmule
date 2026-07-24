@@ -106,7 +106,7 @@ Software Engineer | MERN Stack Developer | SaaS Builder with 2+ years of experie
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   &nbsp;
-  <a href="https://github.com/mule-prathamesh">
+  <a href="https://github.com/prathameshsmule">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
   &nbsp;
