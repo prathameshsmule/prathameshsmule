@@ -1,116 +1,232 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer+(MERN);AWS+Certified+Solutions+Architect;15%2B+Production+Apps+Shipped+End-to-End;Building+Scalable+SaaS+%26+Cloud+Solutions" alt="Typing SVG" />
-</div>
-
 # Hi there, I'm Prathamesh Mule 👋
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=prathameshsmule&label=Profile%20Views&color=36BCF7&style=flat" />
-  <img src="https://img.shields.io/badge/Software%20Engineer-MERN%20Stack-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/SaaS-Product%20Developer-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-n8n%20Automation-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20To-Work-brightgreen?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=prathameshsmule&label=Profile%20Views&color=36BCF7&style=flat" />
+
+<img src="https://img.shields.io/badge/Software%20Engineer-MERN%20Stack-blue?style=flat-square" />
+
+<img src="https://img.shields.io/badge/Experience-2%2B%20Years-success?style=flat-square" />
+
+<img src="https://img.shields.io/badge/SaaS-Full%20Stack%20Developer-orange?style=flat-square" />
+
+<img src="https://img.shields.io/badge/Automation-n8n-purple?style=flat-square" />
+
+<img src="https://img.shields.io/badge/Open%20To-Work-brightgreen?style=flat-square" />
 
 </div>
 
-### 🚀 Full-Stack Software Engineer (MERN) | AWS Certified Solutions Architect
+## 🚀 Full-Stack MERN Developer | Software Engineer
 
-Software Engineer | MERN Stack Developer | SaaS Builder with 2+ years of experience delivering production-grade web applications and enterprise software. Specialized in React.js, Node.js, Express.js, MongoDB, AI integrations, and n8n workflow automation. Experienced in developing scalable CRM, HRMS, Hotel Management, Billing, Healthcare, and AI-based platforms with a focus on clean architecture, secure APIs, performance optimization, and cloud deployment. Passionate about creating innovative software solutions that drive business growth and enhance user experiences.
+Results-driven Full-Stack MERN Developer with **2+ years of experience** building scalable web applications, enterprise SaaS platforms, CRM, HRMS, Hotel Management Systems, and workflow automation solutions.
 
-- 🏢 **Currently Working at:** [UMBARKAR TECHNOLOGY INDIA PRIVATE LIMITED](https://usystem.solutions/) (Pune) — _Since March 2026_
-- ⏳ **Previous Experience:** Software Engineer at WorknAI Technologies India Pvt Ltd (Sep 2025 – Feb 2026)
-- 💼 **Freelance:** Independently building SaaS products for **Quantromind Private Limited** (CRM, Billing, AI PhotoEvent)
-- 💬 **Ask me about:** React.js, Node.js, MongoDB, REST APIs, AWS, AI, System Design, or SEO Strategies
+I specialize in **React.js, Node.js, Express.js, MongoDB, MySQL, REST APIs, JWT Authentication, RBAC, n8n Automation, AI Face Detection, and Cloud Deployment**. I enjoy building secure, production-ready applications from idea to deployment while following Agile development practices.
 
-| 🚀 Delivery | ☁️ Engineering Focus | 🤝 Collaboration |
+- 💼 **Current Role:** Software Engineer at **U Tech India Pvt Ltd** *(Feb 2026 – Present)*
+- 🏢 **Previous:** Software Engineer at **WorknAI Technologies India Pvt Ltd** *(Jun 2025 – Feb 2026)*
+- 🚀 **Expertise:** MERN Stack, REST APIs, Workflow Automation, SaaS Development
+- 🤖 **Interests:** AI Integrations, Face Recognition, n8n Automation
+- 🌱 **Currently Learning:** System Design, Microservices & Advanced Cloud Architecture
+
+| 🚀 Experience | 💻 Expertise | 🤝 Open To |
 | :-- | :-- | :-- |
-| **15+** live applications shipped end-to-end | MERN, AI Integration, n8n Automation, Secure APIs & Scalable SaaS | Available for Software Engineering, Product Development & Freelance Consulting |
+| **2+ Years** | MERN Stack, SaaS Platforms, REST APIs, AI Integration | Full-Time Software Engineer & Freelance Projects |
 
 ---
 
-### 🛠️ Tech Stack, Tools & Skills
+# 🛠️ Tech Stack
 
-| **Category**             | **Technologies & Skills**                                                                      |
-| :----------------------- | :--------------------------------------------------------------------------------------------- |
-| **Frontend**             | React.js, JavaScript (ES6+), HTML5, CSS3, Responsive Web Design, UI/UX Integration,            |
-| **Backend & APIs**       | Node.js, Express.js, Django, REST API Design, JWT Auth, RBAC, Facebook/Instagram API, Razorpay |
-| **Databases**            | MongoDB, MySQL/SQL, Query Optimization, Data Modeling                                          |
-| **Cloud & DevOps**       | AWS (EC2, S3, RDS, IAM, VPC), Hostinger, Docker, Linux Server Deployment                       |
-| **Languages**            | JavaScript, Python, Java, C, C++, PHP                                                          |
-| **Core Competencies**    | SDLC, System Analysis, Requirements Analysis, Root Cause Analysis, Test Automation, QA         |
-| **SEO & Business Tools** | Google Search Console, Google Business Profile, On-Page SEO, Client Portfolio Websites         |
-| **Tools**                | Git, GitHub, Postman, Jira, VS Code, MySQL Workbench                                           |
+| Category | Technologies |
+| :-- | :-- |
+| Frontend | React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Responsive UI |
+| Backend | Node.js, Express.js, PHP, REST APIs, Middleware |
+| Database | MongoDB, MySQL, Database Modeling, Query Optimization |
+| Security | JWT Authentication, RBAC |
+| Automation | n8n, Webhooks, API Integrations |
+| AI | AI Face Detection Integration |
+| Deployment | Hostinger, Vercel |
+| Tools | Git, GitHub, VS Code, Postman |
+| Practices | Agile, Scrum, SDLC, Code Reviews, Performance Optimization |
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,django,js,python,java,c,cpp,php,aws,docker,linux,git,github,postman&perline=9" alt="Tech stack icons" />
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,php,git,github,postman,vscode&perline=6"/>
+
 </div>
 
 ---
 
-### 📂 Featured Projects & Client Work
+# 🚀 Professional Experience
 
-> **15+ production applications shipped** across employer, freelance, and independent engagements — from discovery and system design to deployment.
+## 💼 Software Engineer
+### U Tech India Pvt Ltd *(Feb 2026 – Present)*
 
-| Project | What I built / impact | Stack |
-| :-- | :-- | :-- |
-| **📸 [QuantroMind PhotoEvent](https://photoevent.quantromind.com/)**<br>*AI Event Photo Gallery SaaS · Freelance* | QR-based guest access, AI face/selfie matching, DSLR-to-cloud upload workflow, and photo monetization payments. | React, Node.js, Express, MongoDB, AWS/CDN |
-| **🏨 [Hotel Shivshambhoo](https://shivshambhoo.com/)**<br>*3-Star Hotel Management System · U Tech India* | Public website plus reservations, room management, restaurant billing, payments, and local SEO/Google Business Profile setup. | React, Node.js, Express, MongoDB, Hostinger |
-| **🧩 [QuantromindCRM](https://portal.quantromind.com/)**<br>*CRM, HRMS & Sales Platform · Freelance* | Meta lead capture that syncs campaign leads automatically, with HRMS (attendance/payroll) and sales-pipeline modules. | React, Node.js, Express, MongoDB, REST APIs |
-| **🏢 [WorknAI HRMS](https://worknaihrms.online/)**<br>*Enterprise HRMS · WorknAI* | End-to-end HR platform with attendance, leave, reports, and secure RBAC across Super Admin, Company, HR, and Employee roles. | React, Node.js, Express, MongoDB, JWT, RBAC |
-| **💼 [Umbarkar CS](https://umbarkarcs.com/)**<br>*Finance & IT Operations CRM · U Tech India* | Secure dashboards for user and salesperson tracking, maps, incentives, and document workflows. | React, Node.js, Express, MongoDB |
-
-<details>
-<summary><b>More client & independent builds</b></summary>
-<br>
-
-| Project | Key capability | Stack |
-| :-- | :-- | :-- |
-| **🧾 [Quantromind Billing](https://qbill.quantromind.com/)**<br>*SaaS Invoicing · Freelance* | Automated invoice generation and recurring billing, replacing manual spreadsheet workflows. | React, Node.js, Express, MongoDB |
-| **🍳 CloudKitchen & Healthy Oil**<br>*Multi-vendor Platform · WorknAI* | Store, catalog, cart, order-tracking, subscription, and Razorpay payment flows. | React, Node.js, Express, MongoDB, Razorpay |
-| **🩸 [Raktdaan](https://transhealthpulse.com/)**<br>*Blood Donation Management · Independent* | Donor and campaign management with approval workflows and separate admin/organizer dashboards. | React, Node.js, Express, MongoDB, JWT, RBAC |
-| **🏛️ [eSeva Portal](https://eseva.pythonanywhere.com/)**<br>*Document Verification Service · Independent* | Streamlined government-document request and verification handling. | Django, Python, SQL |
-| **✈️ [GoAirClass](https://goairclass.com/)**<br>*Travel Booking App · Independent* | Live booking experience powered by third-party travel APIs. | PHP, MySQL, Third-Party APIs |
-
-</details>
+- Developed Hotel & Restaurant Management Systems
+- Built CRM, HRMS & Sales Management Platforms
+- Implemented JWT Authentication & RBAC
+- Built POS & Medical Billing Applications
+- Developed n8n Workflow Automation
+- Optimized MongoDB & MySQL Performance
+- Worked in Agile Development Environment
 
 ---
 
-### 🎓 Education & Certifications
+## 💼 Software Engineer
+### WorknAI Technologies India Pvt Ltd *(Jun 2025 – Feb 2026)*
 
-- 🎓 **MERN Full Stack Developer – ScaleFull Techologies LLP** _(FEB 2024 – AUG 2024)_
-- 🎓 **B.Tech – Computer Science and Engineering** (8.66 CGPA), JSPM's Bhangwant Institute Of Technology Barshi _(2021–2024)_
-- 🎓 **Diploma – Information Technology** (83.19%), SVERI's College Of Engineering Pandharpur _(2017–2021)_
-
-
+- Built scalable MERN SaaS Products
+- Developed AI Face Recognition Features
+- Designed RESTful APIs
+- Modernized Legacy PHP Applications
+- Deployed Applications using Git, Hostinger & Vercel
+- Participated in Agile Sprint Planning & Code Reviews
 
 ---
 
-### 🔥 GitHub Activity
+# 🚀 Featured Projects
+
+## 🏨 Hotel Shivshambhoo
+### 3-Star Hotel Management System
+
+- Hotel Booking Portal
+- Restaurant Billing
+- Guest Management
+- Payment Integration
+- Email Notifications
+- Hostinger Deployment
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+🌐 Live: https://shivshambhoo.com
+
+---
+
+## 📸 PhotoEvent
+
+### AI-Powered Event Photo Gallery
+
+- AI Face Recognition
+- QR Code Access
+- Selfie Search
+- n8n Automation
+- Guest Notifications
+- JWT Security
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `n8n`
+
+🌐 Live: https://photoevent.quantromind.com
+
+---
+
+## 📷 PhotoStudio
+
+### Photographer Workflow CRM
+
+- Order Management
+- Invoice Generation
+- WhatsApp API
+- n8n Automation
+- Role-Based Access Control
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+---
+
+## 👨‍💼 WorknAI HRMS
+
+### Enterprise HRMS
+
+- Attendance
+- Employee Onboarding
+- Leave Management
+- JWT Authentication
+- Multi-Role Dashboard
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+🌐 Live: https://worknaihrms.online
+
+---
+
+## ✈️ GoAirClass
+
+### REST API Based Learning Platform
+
+- Third Party API Integration
+- PHP Backend
+- MySQL Optimization
+- Production Deployment
+
+**Tech Stack**
+
+`PHP` `MySQL` `REST APIs`
+
+🌐 Live: https://goairclass.com
+
+---
+
+# 🎓 Education
+
+🎓 **B.Tech - Computer Science & Engineering**
+
+JSPM's Bhagwant Institute of Technology
+
+CGPA **8.66**
+
+2024
+
+---
+
+🎓 **Diploma - Information Technology**
+
+SVERI's College of Engineering
+
+83.19%
+
+2021
+
+---
+
+🎓 **MERN Full Stack Development**
+
+Wisdom Sprouts IT Training Hub
+
+Feb 2024 – Aug 2024
+
+---
+
+# 🔥 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshsmule&theme=radical&hide_border=true" alt="prathameshsmule GitHub streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshsmule&theme=radical&hide_border=true"/>
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/prathameshsmule?tab=repositories">Explore my repositories →</a>
-</p>
-
 ---
 
-### 📬 Connect with Me
+# 📬 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/mule-prathamesh">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/prathameshsmule">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
-  </a>
-  &nbsp;
-  <a href="mailto:prathameshsm0425@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
+
+<a href="https://linkedin.com/in/mule-prathamesh">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/prathameshsmule">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:prathameshsm0425@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
