@@ -12,11 +12,11 @@
 
 ### 🚀 Full-Stack Software Engineer (MERN) | AWS Certified Solutions Architect
 
-Full-Stack (MERN) Software Engineer and **AWS Certified Solutions Architect** with **15+ live/production applications** shipped end-to-end — requirements analysis, system design, development, testing, and deployment. I own features from database schema to cloud deployment across MERN, Django, and PHP stacks for both employer and freelance client environments.
+Software Engineer | MERN Stack Developer | SaaS Builder with 2+ years of experience delivering production-grade web applications and enterprise software. Specialized in React.js, Node.js, Express.js, MongoDB, AI integrations, and n8n workflow automation. Experienced in developing scalable CRM, HRMS, Hotel Management, Billing, Healthcare, and AI-based platforms with a focus on clean architecture, secure APIs, performance optimization, and cloud deployment. Passionate about creating innovative software solutions that drive business growth and enhance user experiences.
 
-- 🏢 **Currently Working at:** [U Tech India Pvt Ltd](https://usystem.solutions/) (Pune) — _Since March 2026_
-- ⏳ **Previous Experience:** Software Engineer at WorknAI (Sep 2025 – Feb 2026)
-- 💼 **Freelance:** Independently building SaaS products for **Quantromind** (CRM, Billing, AI PhotoEvent)
+- 🏢 **Currently Working at:** [UMBARKAR TECHNOLOGY INDIA PRIVATE LIMITED](https://usystem.solutions/) (Pune) — _Since March 2026_
+- ⏳ **Previous Experience:** Software Engineer at WorknAI Technologies India Pvt Ltd (Sep 2025 – Feb 2026)
+- 💼 **Freelance:** Independently building SaaS products for **Quantromind Private Limited** (CRM, Billing, AI PhotoEvent)
 - 💬 **Ask me about:** React.js, Node.js, MongoDB, REST APIs, AWS, AI, System Design, or SEO Strategies
 
 | 🚀 Delivery | ☁️ Engineering Focus | 🤝 Collaboration |
@@ -29,7 +29,7 @@ Full-Stack (MERN) Software Engineer and **AWS Certified Solutions Architect** wi
 
 | **Category**             | **Technologies & Skills**                                                                      |
 | :----------------------- | :--------------------------------------------------------------------------------------------- |
-| **Frontend**             | React.js, JavaScript (ES6+), HTML5, CSS3, Responsive Web Design, UI/UX Integration             |
+| **Frontend**             | React.js, JavaScript (ES6+), HTML5, CSS3, Responsive Web Design, UI/UX Integration,            |
 | **Backend & APIs**       | Node.js, Express.js, Django, REST API Design, JWT Auth, RBAC, Facebook/Instagram API, Razorpay |
 | **Databases**            | MongoDB, MySQL/SQL, Query Optimization, Data Modeling                                          |
 | **Cloud & DevOps**       | AWS (EC2, S3, RDS, IAM, VPC), Hostinger, Docker, Linux Server Deployment                       |
