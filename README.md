@@ -21,7 +21,7 @@ Software Engineer | MERN Stack Developer | SaaS Builder with 2+ years of experie
 
 | 🚀 Delivery | ☁️ Engineering Focus | 🤝 Collaboration |
 | :-- | :-- | :-- |
-| **15+** live applications shipped end-to-end | MERN, AWS architecture, secure APIs & scalable SaaS | Open to Software Engineer roles and freelance product work |
+| **15+** live applications shipped end-to-end | MERN, AI Integration, n8n Automation, Secure APIs & Scalable SaaS | Available for Software Engineering, Product Development & Freelance Consulting |
 
 ---
 
