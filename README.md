@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer+(MERN);AWS+Certified+Solutions+Architect;15%2B+Production+Apps+Shipped+End-to-End;Building+Scalable+SaaS+%26+Cloud+Solutions" alt="Typing SVG" />
 </div>
 
-# Hi there, I'm Sourabh Kumar Dhangar 👋
+# Hi there, I'm Prathamesh Mule 👋
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sourabh-dhangar&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
@@ -17,9 +17,7 @@ Full-Stack (MERN) Software Engineer and **AWS Certified Solutions Architect** wi
 - 🏢 **Currently Working at:** [U Tech India Pvt Ltd](https://usystem.solutions/) (Pune) — _Since March 2026_
 - ⏳ **Previous Experience:** Software Engineer at WorknAI (Sep 2025 – Feb 2026)
 - 💼 **Freelance:** Independently building SaaS products for **Quantromind** (CRM, Billing, AI PhotoEvent)
-- 🏆 **Achievements:** AWS Certified Solutions Architect – Associate | Smart India Hackathon 2024 Finalist | NASA Space Apps Challenge 2024
-- 🔭 **Current Focus:** System Design, Cloud Architecture (AWS), SaaS products & third-party API integrations
-- 💬 **Ask me about:** React.js, Node.js, MongoDB, REST APIs, AWS, System Design, or SEO Strategies
+- 💬 **Ask me about:** React.js, Node.js, MongoDB, REST APIs, AWS, AI, System Design, or SEO Strategies
 
 | 🚀 Delivery | ☁️ Engineering Focus | 🤝 Collaboration |
 | :-- | :-- | :-- |
@@ -76,11 +74,11 @@ Full-Stack (MERN) Software Engineer and **AWS Certified Solutions Architect** wi
 
 ### 🎓 Education & Certifications
 
-- 🎓 **B.Tech – Computer Science and Engineering** (7.79 CGPA), Gyan Ganga Institute of Technology and Sciences, Jabalpur _(2021–2025)_
-- 📜 **AWS Certified Solutions Architect – Associate** — [Verify Credential](https://www.credly.com/badges/de94b677-41de-4f2f-a185-2fc6bf683ac1/public_url)
-- 🏆 Smart India Hackathon 2024 – Finalist
-- 🚀 NASA Space Apps Challenge 2024 – Participant
-- 🎖️ Lakshya Award for Academic Excellence
+- 🎓 **MERN Full Stack Developer – ScaleFull Techologies LLP** _(FEB 2024 – AUG 2024)_
+- 🎓 **B.Tech – Computer Science and Engineering** (8.66 CGPA), JSPM's Bhangwant Institute Of Technology Barshi _(2021–2024)_
+- 🎓 **Diploma – Information Technology** (83.19%), SVERI's College Of Engineering Pandharpur _(2017–2021)_
+
+
 
 ---
 
@@ -91,7 +89,7 @@ Full-Stack (MERN) Software Engineer and **AWS Certified Solutions Architect** wi
 </div>
 
 <p align="center">
-  <a href="https://github.com/sourabh-dhangar?tab=repositories">Explore my repositories →</a>
+  <a href="https://github.com/prathameshsmule?tab=repositories">Explore my repositories →</a>
 </p>
 
 ---
@@ -99,15 +97,15 @@ Full-Stack (MERN) Software Engineer and **AWS Certified Solutions Architect** wi
 ### 📬 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/sourabh-dhangar">
+  <a href="https://linkedin.com/in/mule-prathamesh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   &nbsp;
-  <a href="https://github.com/sourabh-dhangar">
+  <a href="https://github.com/mule-prathamesh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
   &nbsp;
-  <a href="mailto:sourabhdhangar187@gmail.com">
+  <a href="mailto:prathameshsm0425@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
 </div>
