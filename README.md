@@ -19,7 +19,7 @@
 
 ## 🚀 MERN Stack Developer | Enterprise SaaS Engineer
 
-Software Engineer with **2+ years of experience** building scalable **Enterprise SaaS Applications**, CRM, HRMS, Hotel Management Systems, AI-powered platforms and Workflow Automation.
+Software Engineer with **2+ years of experience** building scalable **Enterprise SaaS Applications**, AI Enginer, AI-powered platforms and Workflow Automation.
 
 💡 **Core Expertise**
 
